@@ -23,13 +23,13 @@ https://zhuanlan.zhihu.com/p/602213485
 chat id直接拉@getidsbot进群就可以获得
 
 
-然后替换程序前面的配置参数：
+然后替换程序Catch_CA.py前面的10-12行的配置参数：
 
-WECHAT_GROUP_NAME= "your-group"  (要监听的微信群名称)
+WECHAT_GROUP_NAME= "要监听的微信群名称"
 
-TELEGRAM_BOT_TOKEN = "BOT_TOKEN"  （你的bot token）
+TELEGRAM_BOT_TOKEN = "你刚刚生成出来的BOT TOKEN"  
 
-TELEGRAM_CHAT_ID = "CHAT_ID"  （目标群聊id）
+TELEGRAM_CHAT_ID = "你刚刚生成出来的CHAT_ID"  
 
 
 
