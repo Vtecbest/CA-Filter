@@ -16,7 +16,7 @@ python方面，需要提前用pip装[wxauto](https://docs.wxauto.org/)、request
 
 
 
-telegram方面，需要你新建一个自己的bot以及拉进目标群聊，并获得bot token以及chat id，具体获取方式网上已经有比较多的示范了：
+telegram方面，需要你新建一个自己的bot以及拉进目标群聊，给他管理员权限，并获得bot token以及chat id，具体获取方式网上已经有比较多的示范了：
 
 https://zhuanlan.zhihu.com/p/602213485
 只需要做到生成bot以及token那一步即可，
